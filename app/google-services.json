@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740991915067",
+    "project_id": "image-a1ff1",
+    "storage_bucket": "image-a1ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740991915067:android:388d283929e2cf3b67b81e",
+        "android_client_info": {
+          "package_name": "is.gravendef.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740991915067-69cpupdo086jd026b2jate9q0nq8ribm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVbbqFSL6UsGVeF_B2pnwgOgfp4Tcu9-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740991915067-69cpupdo086jd026b2jate9q0nq8ribm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
